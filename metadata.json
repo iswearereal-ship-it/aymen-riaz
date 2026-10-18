@@ -1,0 +1,6 @@
+{
+  "name": "Aymen Riaz - Barbie Glam VIP World",
+  "description": "Exclusive Barbie pink & white glam experience featuring Aymen's mystery unlock puzzle, interactive drawing and coloring studio, sassy friend roaster, and explosive finale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
